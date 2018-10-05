@@ -1,0 +1,923 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CrQCIwEAAKzlUW7M6wGIPX-2dOUmGdp-0y9qiUFhsnNj6SMhlFVVQCl87f0ZylbSTd4ONsID_H1j1C9VnaoCM5dZm39JsOP7DenWmpfUDovWAKSFY5fYEmfFSQ8UjPgiNkQden0s5IIKODofjw8qpCrqR3BjKKHI2xN49--tgXm2QMnuTmuooPNW7DZT074e8dPuUPuc6NC3RSkKlbhllI-nOPwwFBwuHI1yWGgdiJk0oBFmGTxP5uL03cDTaw2uXPBg6cEtKDDnovf_XoTPK1QXgonExerf_iJT6HrQF_eqME1VqXgeche7MnPB7PlrUdiCH51iUj6cA4TJi9vrPHGcimy3M4_-oWQ9vil2wHaGr07BQvRnEG_wJ0bhbs9sHndZL2Oc8sHL6-R9DgTRIMPCbl1EmMQSEOzXB-oV9eLuLTPcaha71gQaFBn4zYRUtFxsRywpKj73tl7-1Ck0",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4028273,
+               "lng" : 2.1563667
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.40417403029149,
+                  "lng" : 2.157711980291502
+               },
+               "southwest" : {
+                  "lat" : 41.40147606970849,
+                  "lng" : 2.155014019708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "68cf4b6fc24e391c9880a462bce74b3ba6b1a8bc",
+         "name" : "La Taberna Griega",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5184,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103382517649361284344/photos\"\u003eLa Taberna Griega\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAU8TZ9bDBak06S_dNaBaHe9s1iTPh9Uzl-kCtSrJ4ZgdgzHfrp2URYiysaRqcK5Nva3pRCyQp8mVCFQzap2S8L5y4-Rg8dKfklcccPJnVMKQdduOh4F6-IV-neQ1soRqNEhDLISR2Tcdll_pXvZiiNY23GhTax5qvYZO5_860V9dHiwaIeEPe0A",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ10wuF72ipBIRh_KztS3VaB8",
+         "plus_code" : {
+            "compound_code" : "C534+4G Barcelona, Spain",
+            "global_code" : "8FH4C534+4G"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ10wuF72ipBIRh_KztS3VaB8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer del Torrent de l'Olla, 123, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.40276979999999,
+               "lng" : 2.1564297
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4041163802915,
+                  "lng" : 2.157774780291501
+               },
+               "southwest" : {
+                  "lat" : 41.4014184197085,
+                  "lng" : 2.155076819708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "700bb3b4bef24f3d99a504005be1b7733650cba8",
+         "name" : "Restaurante la Caleta de Gracia",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102015400827470948152/photos\"\u003eJesús P R\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXm-cVIfA6knV_e36tjkQ-_4L63gPErNnXYccqKRzMTD-sHHijLfjIXKQBNUVAnICnlzjRea0Sc3aUS2ew8HjOLIoS12piLerg9XIdCvexkO_p5JF3o84VzJWoK4CwFdUEhDDAdi-zjtSCwo6YW-TyFqGGhRwdSYZjdZ0rzY_OJxHxWWwY3b7Ew",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJw_VpEb2ipBIRjwa77Zdm8ww",
+         "plus_code" : {
+            "compound_code" : "C534+4H Barcelona, Spain",
+            "global_code" : "8FH4C534+4H"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJw_VpEb2ipBIRjwa77Zdm8ww",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer del Torrent de l'Olla, 121, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4019427,
+               "lng" : 2.1566342
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.40325868029149,
+                  "lng" : 2.158022280291501
+               },
+               "southwest" : {
+                  "lat" : 41.40056071970849,
+                  "lng" : 2.155324319708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b614d2ed72decde81a6f63887bd98b0071887ab3",
+         "name" : "Restaurant Envalira",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113994301081199847405/photos\"\u003eGerman Blanco\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAtcemJqpY4XmCnX75zpX4UZ4nifutAZSkzTQD5SbVWvs8_QhfachaheSnqMboxlRUcsmSXvlcWNWidJA3vvaxWBNyc-SP2xRDvFqAyp01BLxVkQAq1H52EbLOZd2rxK62EhB4L957x9NaUX9Snkn7gNOkGhQthn1jK66QhQVc0YXAjVDt9S-Htg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJq7fFcb2ipBIR1ROcxJNdHBY",
+         "plus_code" : {
+            "compound_code" : "C524+QM Barcelona, Spain",
+            "global_code" : "8FH4C524+QM"
+         },
+         "rating" : 4,
+         "reference" : "ChIJq7fFcb2ipBIR1ROcxJNdHBY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Plaça del Sol, 13, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4024564,
+               "lng" : 2.1613183
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4038189802915,
+                  "lng" : 2.162651230291502
+               },
+               "southwest" : {
+                  "lat" : 41.4011210197085,
+                  "lng" : 2.159953269708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "77379329fc0101a1a368b00e7101783a945a075c",
+         "name" : "Famen",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106600855337700347106/photos\"\u003evicky garcia de prado\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAY8aPuLgVU9N4FkVb5Myfqwi-wPwyTDCbHXws4-yopaEL7R8_I_XyhnRCGl9UNmiY5aqtKmZyyTqqktj5TLYUtW5Jm_LxJBt2pH5nR-vEyK6cWeetEGPnA5vhmCveE-9YEhC3jlYr2xr9hh21J-XBoYuqGhTnOid6QbP0v42h_qj-kmskFM3zxQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJVb0UQb6ipBIRgm1GSBgFHP4",
+         "plus_code" : {
+            "compound_code" : "C526+XG Barcelona, Spain",
+            "global_code" : "8FH4C526+XG"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJVb0UQb6ipBIRgm1GSBgFHP4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer de Ramis, 2, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.402297,
+               "lng" : 2.1612892
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4036257302915,
+                  "lng" : 2.162607580291502
+               },
+               "southwest" : {
+                  "lat" : 41.4009277697085,
+                  "lng" : 2.159909619708499
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "345e90124b0896865c3f0f595e2af4d10965433a",
+         "name" : "Himali",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108424974302562835159/photos\"\u003eTerapNaturalZen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsTZuzjDoQB5tf8WHtjuGKW_A1XcxiYNOXXDQmFs33nfWtwRz16nXE499hEwo3H81jIhcDrg8E-jof0Py6pGhaAdGwbJXFHOA7uvdYVcb6rnMkI7x1NDp4-cZW3nHKccLEhDex48Z0g6eut5B4YZ4EMUvGhRRhyTzEJLY7n9X3ef8SXTdNZcg7g",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJWfq8OL6ipBIRO4siD6xF-BM",
+         "plus_code" : {
+            "compound_code" : "C526+WG Barcelona, Spain",
+            "global_code" : "8FH4C526+WG"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJWfq8OL6ipBIRO4siD6xF-BM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Carrer de Milà i Fontanals, 60, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4044547,
+               "lng" : 2.1576837
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.40580748029149,
+                  "lng" : 2.159038780291501
+               },
+               "southwest" : {
+                  "lat" : 41.40310951970849,
+                  "lng" : 2.156340819708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5b80d58584ea6eccf52b8e782df2adc96bf6017c",
+         "name" : "Cafè Salambó",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 680,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101259344467930494166/photos\"\u003eCafé Salambó\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0B769AztuSCtda7Z5g8gkgkksE9Y2LDwhLZhn1D0CleXXu7G2RUO73am1HRLQesw-6yW9p35El64DAgJ9gYzjsqtJHgn5GbShI7jY_ceQAvj-d1tQApa9WF2Dazv5AZrEhDPSSbLq3jm-KPhF7TjvSxqGhSPAlzjpPWlmtzSNOYqM-7H71afag",
+               "width" : 1021
+            }
+         ],
+         "place_id" : "ChIJK4sLW7yipBIR8B2-xnRP_qE",
+         "plus_code" : {
+            "compound_code" : "C535+Q3 Barcelona, Spain",
+            "global_code" : "8FH4C535+Q3"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJK4sLW7yipBIR8B2-xnRP_qE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Carrer de Torrijos, 51, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4038929,
+               "lng" : 2.1598074
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.40519403029149,
+                  "lng" : 2.161088780291502
+               },
+               "southwest" : {
+                  "lat" : 41.4024960697085,
+                  "lng" : 2.158390819708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a89f63f4dc4eb724b3a2ca5cbca4f8ff195d54ce",
+         "name" : "L'Arrosseria Xativa",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1341,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106044738838014301221/photos\"\u003eL&#39;Arrosseria Xàtiva\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAopeyNJ-xiD2fFL4kmjgWvRb8DHMOAmiE09QnS1cRm1DjaUnmRJcf1SF5A9E0ZknWjojZCoy5S7wmjUD_QCx0O7AXKYSnGwFogOrcftBYoQYKAivH50cXQD5iRDYHNDfNEhAiomyGS2n6rxVSWvqm03kvGhQNKDK1yhdRPtDQ4NtnuofjFfsngQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJW3X2gL6ipBIRKMhN7d0NtJI",
+         "plus_code" : {
+            "compound_code" : "C535+HW Barcelona, Spain",
+            "global_code" : "8FH4C535+HW"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJW3X2gL6ipBIRKMhN7d0NtJI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer del Torrent d'En Vidalet, 26, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4046786,
+               "lng" : 2.1560378
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4060209302915,
+                  "lng" : 2.157376230291502
+               },
+               "southwest" : {
+                  "lat" : 41.4033229697085,
+                  "lng" : 2.154678269708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f80098c42192234ff6210b53fbc14c300fa9cf3d",
+         "name" : "L'Ós Panda",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109135690956507522480/photos\"\u003eSergio Acacio\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAw409CubiKZ7wDN9rNao-yB-93N2PsU6ZJsBTi-Za7jOuljZdUupQc1cdmVXzhKmMQGl8g94zcMge7w-UR0EGb8kxxPI05ADab6DfaJnJ8FtxpuYf8zT5JhUWw6s72wu4EhCJI_8vp0d95MzjNolwhye7GhS1V5CezgKcstv3JXE3ayyWS8ydrw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_8oswLyipBIRl95Og3bYHog",
+         "plus_code" : {
+            "compound_code" : "C534+VC Barcelona, Spain",
+            "global_code" : "8FH4C534+VC"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ_8oswLyipBIRl95Og3bYHog",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer de Verdi, 56, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4045974,
+               "lng" : 2.1607219
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4059737302915,
+                  "lng" : 2.162040730291502
+               },
+               "southwest" : {
+                  "lat" : 41.4032757697085,
+                  "lng" : 2.159342769708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dac570ba973c460b3efb9a679a5e20aa4ad7b1ce",
+         "name" : "Restaurant Veg World India",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1512,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101218964212356975215/photos\"\u003eKrishna Chengavalli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8BhZvov0iXsKZ68T-dpDQU3WcUWlOt0ubCdWNzAZlXOIsae4UGMtFVnJdwurf5oeRB3VM6itUNyB0UYNR7orwYYoN9oZtI1jQok8T_5QJxiXjE9nPs_xxfnYQPedFQ9sEhBOKgv7uONw9H2jVb7dRqNQGhTxVrHEOS7X_fNtuKot0taEdPA0cw",
+               "width" : 2688
+            }
+         ],
+         "place_id" : "ChIJu0J4lr6ipBIRevA8AWU8Mb4",
+         "plus_code" : {
+            "compound_code" : "C536+R7 Barcelona, Spain",
+            "global_code" : "8FH4C536+R7"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJu0J4lr6ipBIRevA8AWU8Mb4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "26, Carrer de Bruniquer, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.403293,
+               "lng" : 2.1570741
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4046649302915,
+                  "lng" : 2.158397280291502
+               },
+               "southwest" : {
+                  "lat" : 41.4019669697085,
+                  "lng" : 2.155699319708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "35f45daa6a483bb2ac5e5a3d60296ff377fddd47",
+         "name" : "La Ceba",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110838914356519052700/photos\"\u003eJosep Ferrero\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGQkttj1m9S4BS9MHReY8tvO8-TXRwOTg_M9IOQlKboeVv5LS1mKxXjUORMX7sfDtV96ovWyWgQHKnDF0up2AGdpYKcU8cgxzuk0S6SVtaCI99sl9mjuw4FJfkHsSZ9g3EhAAsYaiGIxQPl8PG-MT6LA7GhS86NxxpuAU_agQ6pIRuqYKMImwjQ",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJyY9KAb2ipBIRBwSIvkGaURY",
+         "plus_code" : {
+            "compound_code" : "C534+8R Barcelona, Spain",
+            "global_code" : "8FH4C534+8R"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJyY9KAb2ipBIRBwSIvkGaURY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer de la Perla, 10, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4065575,
+               "lng" : 2.1604195
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4079338302915,
+                  "lng" : 2.161739030291502
+               },
+               "southwest" : {
+                  "lat" : 41.4052358697085,
+                  "lng" : 2.159041069708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5171c754d5f5289be153a47ba5be62f9e2780ec8",
+         "name" : "Restaurante Mi Gracia",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109373567834785118493/photos\"\u003eDavid Campos\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABDvmrhLR7b4R0RxQ5I3IcBfdFcESSADKniV5pewhyHRjKTBrG-eTqpts2VkPCg0fN5srO9KoIvxxeqgSCReq2G9smeHDcrNV8NIrfwnrJ9-x5oUXRJggLb9oLO5_cS5tEhCP2gsCdFSAwSnnJQvohUlgGhRsMfS9EtvNpNs-7R7i0VGzMLr5OA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ9xoAT7mipBIRjtaM0bxLKDo",
+         "plus_code" : {
+            "compound_code" : "C546+J5 Barcelona, Spain",
+            "global_code" : "8FH4C546+J5"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ9xoAT7mipBIRjtaM0bxLKDo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer de l'Encarnació, 52, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4048905,
+               "lng" : 2.1558467
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4062394802915,
+                  "lng" : 2.157195680291502
+               },
+               "southwest" : {
+                  "lat" : 41.4035415197085,
+                  "lng" : 2.154497719708499
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1b43475e0317df7b6a87738dfd100801ffc9e5d3",
+         "name" : "Kibuka Verdi",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108618294695467815411/photos\"\u003emompó\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAALRaTWTEjSesFtMkgP63FQFzzXAbs0vBjdKwf3QN56Xg_3MZRNE1XytRtwsw0DpyUToJbuoCzjT1qgEjjHxzzQgemdRn5zGWfeEb_iqh3aAsSLCb31dQr4ZH14vAoXwoZEhCdztlgF3TN8aSB2gjFt2hNGhQO9wEboY5U9uSW5SnXK3kXtud8cg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ9ZPOuLyipBIRmikoMRf2N7s",
+         "plus_code" : {
+            "compound_code" : "C534+X8 Barcelona, Spain",
+            "global_code" : "8FH4C534+X8"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ9ZPOuLyipBIRmikoMRf2N7s",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Calle Verdi, 64, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4048873,
+               "lng" : 2.1595444
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4062687802915,
+                  "lng" : 2.160868280291501
+               },
+               "southwest" : {
+                  "lat" : 41.4035708197085,
+                  "lng" : 2.158170319708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "33ce03ac21465abb6b08f4e58ee573ab32867361",
+         "name" : "Taverna El Glop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4981,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102316727654230764921/photos\"\u003eTaverna El Glop\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApecK_f6uBh3tEtvTFMJJo_OEUavFY6RA0KrGpXD2X7Dx0jRjmdZQ9Yk7xoEQmWYW_U6ItPFsSGshy1-HV74xFH9HyV-b6E63tkXC3EXJE_YALKIAY43ClzqtfBm_VxmqEhDS0gA9ZYr5FcZ7I8MbUYSgGhQfgqN5vXA0F0d_cBNM3BnuD933Cw",
+               "width" : 3321
+            }
+         ],
+         "place_id" : "ChIJ7yj5HryipBIR17Kxb2qyrD0",
+         "plus_code" : {
+            "compound_code" : "C535+XR Barcelona, Spain",
+            "global_code" : "8FH4C535+XR"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ7yj5HryipBIR17Kxb2qyrD0",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer de Sant Lluís, 24, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4021195,
+               "lng" : 2.157961900000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4034826802915,
+                  "lng" : 2.159295280291502
+               },
+               "southwest" : {
+                  "lat" : 41.4007847197085,
+                  "lng" : 2.156597319708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d1a28dd39c0978a1210369679e831405722d8091",
+         "name" : "La Llavor dels Orígens (Gràcia)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 788,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110047972361723880804/photos\"\u003eLa Llavor dels Orígens (Gràcia)\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZiXNd9z7H5KlIBFttlXV4kYkNgRpJ5KFR_IDwRaJcTUDFZDhSIqHipUePLKz_-GG4RVXyb1Hzim7enNQul0w9s_sFE6Vcow4bClDweUfbYU0ks7_2jMbi1xTbYPxP_c9EhByFBCUQa5IFLAqZWusax2CGhSx07lJHZH6S1_hmtXxXhiQ4ZKuDw",
+               "width" : 1181
+            }
+         ],
+         "place_id" : "ChIJORwvmL2ipBIRShFuQnM8pG8",
+         "plus_code" : {
+            "compound_code" : "C525+R5 Barcelona, Spain",
+            "global_code" : "8FH4C525+R5"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJORwvmL2ipBIRShFuQnM8pG8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer de Ramón y Cajal, 12, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4026439,
+               "lng" : 2.1588004
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.40400218029149,
+                  "lng" : 2.160139230291501
+               },
+               "southwest" : {
+                  "lat" : 41.40130421970849,
+                  "lng" : 2.157441269708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ee9b5b0b55ab8ce7214c62e12c65a89bffb034b9",
+         "name" : "La Nena",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107925166697712041979/photos\"\u003eLa Nena\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQ1Dpz0lqvbwZmZ0FfRlZzUY81QoV39_3B31WO8yHoJAvoxLQq-G3QAI0hJt878hQmWdu4xmxccRMhVQ1CwkSAvhDLkKrLFP4rT031XNyo9RpvKt_B548I4Mr2taVd8xNEhAwRpqSdnnZ8QBcy4k9MNz9GhTVcJekQ0aZdQKtKic9hg1OOFFenQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJF0W9xr2ipBIRhVcuJm56V1U",
+         "plus_code" : {
+            "compound_code" : "C535+3G Barcelona, Spain",
+            "global_code" : "8FH4C535+3G"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJF0W9xr2ipBIRhVcuJm56V1U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Carrer de Ramón y Cajal, 36, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4066526,
+               "lng" : 2.1603465
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.40799638029149,
+                  "lng" : 2.161701030291502
+               },
+               "southwest" : {
+                  "lat" : 41.4052984197085,
+                  "lng" : 2.159003069708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4b6a61cccea7d7dba6e91d819628178aaf04cf24",
+         "name" : "Cantina Mexicana",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112571355224541467554/photos\"\u003eMARIA CARMENZA PEREZ MENDEZ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANMW9ByUYqnRIA80K5Y55gr-6BKogAElKFxTEq8Yqzwb0CakGm5k6d1VpGXU11ndb3uI73_KNzY8I5WYxsGmUS42sv3sxIRNuOpiOBARgGBxl8z94n1xzW5qsSiSy-DngEhCfr7m59k5OGZ_qsWtO63cwGhRGvGf-_DdQW18KazzDDHlzO3i_AA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJPXh0ULmipBIRxRJUcEmvFek",
+         "plus_code" : {
+            "compound_code" : "C546+M4 Barcelona, Spain",
+            "global_code" : "8FH4C546+M4"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJPXh0ULmipBIRxRJUcEmvFek",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Carrer de l'Encarnació, 51, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.40319540000001,
+               "lng" : 2.1583032
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.40454088029151,
+                  "lng" : 2.159656030291501
+               },
+               "southwest" : {
+                  "lat" : 41.40184291970851,
+                  "lng" : 2.156958069708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e45d86979c3939de2375b67c96f2b26e0ae727e5",
+         "name" : "Pizzería Lucania II",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104296914803963357454/photos\"\u003eRoger Omella\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEE8X9961Gquyb84weIys4szX-lRw3FsF0zC3SQ1diKNPh3bBjDQRwlc_heJz8zkSSsp_-QcAIz_gtC3KHTJN3PB2XzuR5B0mVE39vsY1KBR2O1ZhFVvfT41bc4z3SQtKEhBRF_bRxQMK2PKWxb5MVXNdGhTScQbWKMBnXRcfziOD_8yCcvPC_Q",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_RDJtr2ipBIRlicJYW6XfOk",
+         "plus_code" : {
+            "compound_code" : "C535+78 Barcelona, Spain",
+            "global_code" : "8FH4C535+78"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ_RDJtr2ipBIRlicJYW6XfOk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer de Terol, 29-33, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.405539,
+               "lng" : 2.1603075
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.40688463029149,
+                  "lng" : 2.161660280291501
+               },
+               "southwest" : {
+                  "lat" : 41.40418666970849,
+                  "lng" : 2.158962319708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c89caac753da19ab12c90d969f1127fed1ae0efc",
+         "name" : "Bar Gato Negro",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102488018932882543854/photos\"\u003eJuan Alfonso Alonso Bernardo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZ4ibvQnpKNz-KYYKU7Qaf61kHvy1B9zmUTAOJCs-UWRshQSGUjip5Bw4K85r3xTKAo1bm7rXkitUcFoxxwTjER6Q00r_V0UO4BJQBp-1XA7YdZqqTRNOggNZsoXfm1ssEhD8fjUKejm3gSIbr8KdB6nyGhSH4O9eMPYBte6W6oqWNoVaCq-upg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJM8var76ipBIR3xg1x9UnYWU",
+         "plus_code" : {
+            "compound_code" : "C546+64 Barcelona, Spain",
+            "global_code" : "8FH4C546+64"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJM8var76ipBIR3xg1x9UnYWU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Carrer de Sant Lluís, 47, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.40614240000001,
+               "lng" : 2.1598066
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4074913802915,
+                  "lng" : 2.161155580291501
+               },
+               "southwest" : {
+                  "lat" : 41.4047934197085,
+                  "lng" : 2.158457619708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a0b821c0f0135bf876c021bf76018b2dfa6cb2c4",
+         "name" : "Pappa e Citti",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100675118632959483080/photos\"\u003eDamián García - Mediaty\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVG7PizzgmQ2xI19Kbb_CPsvdwe4k5TO5bEMZrriETccSEYSy2N1_GJzXjFW0czCBOI_ICA2g2yD5WbU-dUdozQxvIUE5tYVUxGqR94X5Z2VVpFL98wgeMaeKdagl0LM0EhCRticZMay9VoUAX8_yPTd5GhSRKbwwZCcl4fkFMxtzghfqw1Bg7Q",
+               "width" : 4592
+            }
+         ],
+         "place_id" : "ChIJ18Rt_7uipBIRx_gPd4f6DnI",
+         "plus_code" : {
+            "compound_code" : "C545+FW Barcelona, Spain",
+            "global_code" : "8FH4C545+FW"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ18Rt_7uipBIRx_gPd4f6DnI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Calle de la Encarnación, 38, Barcelona"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4032947,
+               "lng" : 2.1590087
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4046438302915,
+                  "lng" : 2.160357880291502
+               },
+               "southwest" : {
+                  "lat" : 41.4019458697085,
+                  "lng" : 2.157659919708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "554aadb942377256cd3218dd44a5c6b8e93d75bd",
+         "name" : "Chido One",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108460552323687955905/photos\"\u003eChido One\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABuNr-m5umXTBGsWA4-TKszpI331wmZQ3xcovMbZJCOlSwJMHEVbxpuYsMoViSrKT3lhK5ChYb3Ozc28Af3PWBng0o0UM0be8Arop1pOfbNu_GdgbkPgmbIDqk3Gjx9vrEhAbw-u8T1s5VbmYSpi4FtyoGhTWOF_rJzyxCBdmh9Msd75Yios4sw",
+               "width" : 4928
+            }
+         ],
+         "place_id" : "ChIJXWLTzb2ipBIR4aTEwdZsfaQ",
+         "plus_code" : {
+            "compound_code" : "C535+8J Barcelona, Spain",
+            "global_code" : "8FH4C535+8J"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJXWLTzb2ipBIR4aTEwdZsfaQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer de Torrijos, 30, Barcelona"
+      }
+   ],
+   "status" : "OK"
+}
