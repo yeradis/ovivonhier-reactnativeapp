@@ -2,8 +2,7 @@
 ## Ort von Interesse <OVI = POI> von Hier
 
 Just a really simple React Native app (my first one)
-
-In order to see the app working
+for a technical test
 
 ```sh
 yarn install
