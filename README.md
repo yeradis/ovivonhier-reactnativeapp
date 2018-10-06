@@ -25,7 +25,7 @@ TODO
 - [x] Redux - Load categories list
 - [x] Redux - Load selected category list category
 - [x] Add navigation
-- [ ] Make services (GetCategories, GetCategory fetch data from some API)
+- [ ] Make services (GetCategories, GetCategory) fetch data from some API
 - [ ] Unit test
 - [ ] Improve folder structure
 - [ ] Follow existing convention
