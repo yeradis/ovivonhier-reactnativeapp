@@ -2,10 +2,8 @@ import React, { Component } from "react";
 import { connect } from 'react-redux';
 import {
     View,
-    Text,
     FlatList,
     TouchableOpacity,
-    Alert
 } from "react-native";
 
 import * as categoriesStyle from "@styles/categories.style"

@@ -1,6 +1,4 @@
-import * as Images from '@assets/images';
-
-    const categoryItems =
+const categoryItems =
     [
         {key: '0', title: "Place 0", icon: null},
         {key: '1', title: "Place 1", icon: null},

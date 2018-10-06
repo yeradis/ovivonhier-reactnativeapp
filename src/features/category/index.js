@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { connect } from 'react-redux';
 import {
     View,
-    Text,
     FlatList,
     TouchableOpacity,
     Alert
@@ -70,7 +69,6 @@ class Category extends Component {
 }
 
 function mapStateToProps(state) {
-    console.log(state)
     return {
         category: state.category
     }
