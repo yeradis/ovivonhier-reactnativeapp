@@ -23,7 +23,13 @@ TODO
 - [x] Get clicked item from the list
 - [x] Redux - Integrate
 - [x] Redux - Load categories list
-- [ ] Redux - Load selected category list category
-- [ ] Add navigation
+- [x] Redux - Load selected category list category
+- [x] Add navigation
+- [ ] Make services (GetCategories, GetCategory fetch data from some API)
+- [ ] Unit test
+- [ ] Improve folder structure
+- [ ] Follow existing convention
 
-![categories list](./images/categories-list.png "Categories list")
+![categories list](./images/home.png "Categories list")
+![category items](./images/detail.png "Category items")
+
