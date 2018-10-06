@@ -5,7 +5,6 @@ const initialState = {
 };
 
 const categoriesReducer = (state = [], action) => {
-    console.log('helloooo00000000000000');
     console.log(action.type);
     switch(action.type) {
         case GET_CATEGORIES, GET_CATEGORIES_FULFILLED:

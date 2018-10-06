@@ -11,14 +11,13 @@ const categoriesList =
         {key: 'park', title: "Park", icon: Images.categories['park']}
     ];
 
-class GetCategories {
+export default class GetCategories {
 
     promise() {
+        //TODO: use some api
         return new Promise(function (resolve, reject) {
             resolve(categoriesList)
         })
     }
 
 }
-
-export { GetCategories }

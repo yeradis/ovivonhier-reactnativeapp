@@ -8,8 +8,8 @@ const colors = {
 
 
 const values = {
-    "font_header_size": 30,
-    "font_header_weight": "900",
+    "font_header_size": 20,
+    "font_header_weight": "bold",
     "font_title_size": 20,
     "font_title_weight": 'bold',
 };
@@ -17,7 +17,7 @@ const values = {
 const styles = StyleSheet.create({
     page: {
         flex: 1,
-        marginTop: 64,
+        marginTop: 12,
         alignSelf: "stretch",
     },
     header: {
@@ -25,6 +25,8 @@ const styles = StyleSheet.create({
         margin: 10,
         fontSize:values.font_header_size,
         fontWeight: values.font_header_weight,
+        textAlign: 'center',
+        alignSelf:'center',
     },
     container :{
         flex: 1,
