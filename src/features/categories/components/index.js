@@ -1,3 +1,3 @@
-import CategoryListItem from "./CategoryListItem";
+import CategoryListItem from './CategoryListItem';
 
-export { CategoryListItem }
+export { CategoryListItem };

@@ -1,5 +1,5 @@
 import promiseMiddleware from 'redux-promise-middleware';
-import {applyMiddleware, createStore} from "redux";
+import {applyMiddleware, createStore} from 'redux';
 
 import reducers from '../reducers';
 

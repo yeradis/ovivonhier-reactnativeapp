@@ -5,7 +5,7 @@ const categories = {
     'park': require('./categories/park.png'),
     'restaurant': require('./categories/restaurant.png'),
     'spa': require('./categories/spa.png'),
-    'supermarket': require('./categories/supermarket.png'),
+    'supermarket': require('./categories/supermarket.png')
 };
 
-export { categories }
+export { categories };
