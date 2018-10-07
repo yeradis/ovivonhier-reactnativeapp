@@ -1,6 +1,6 @@
-import { GET_CATEGORIES, GET_CATEGORY } from './types';
+import { GET_CATEGORIES, GET_NEARBY_PLACES } from './types';
 import GetCategories from '../services/GetCategories';
-import GetCategory from '../services/GetCategory';
+import GetNearbyPlaces from '../services/GetNearbyPlaces';
 
 export const getCategories = () => {
     return {
@@ -9,9 +9,9 @@ export const getCategories = () => {
     };
 };
 
-export const getCategory = (category) => {
+export const getNearbyPlaces = (category, latitude, longitude) => {
     return {
-        type: GET_CATEGORY,
-        payload: new GetCategory().promise(category)
+        type: GET_NEARBY_PLACES,
+        payload: new GetNearbyPlaces().promise(category, latitude, longitude)
     };
 };

@@ -8,10 +8,12 @@ import {
 } from "react-native";
 
 import * as categoriesStyle from "@styles/categories.style"
-import { CategoryListItem } from "../categories/components"
+import * as nearbyPlaceStyle from "@styles/nearbyPlace.style"
+
+import NearbyPlaceItem  from "./components/NearbyPlaceItem"
 import * as actions from "../../actions"
 
-class Category extends Component {
+class NearbyPlaces extends Component {
 
     static navigationOptions = ({ navigation }) => {
         const {state} = navigation;
@@ -36,21 +38,34 @@ class Category extends Component {
     }
 
     componentDidMount() {
-        let key = this.props.navigation.getParam('categoryKey', 'NO-KEY')
-        this.props.getCategory(key);
+        navigator.geolocation.getCurrentPosition (
+            (position) => {
+                const latitude = Number(position.coords.latitude.toFixed(6));
+                const longitude = Number(position.coords.longitude.toFixed(6));
+
+                let category = this.props.navigation.getParam('categoryKey', 'NO-KEY')
+                this.props.getNearbyPlaces(category, latitude, longitude);
+            },
+            (error)    => { console.log(error) },
+            {
+                enableHighAccuracy: true,
+                timeout:            20000,
+                maximumAge:         10000
+            }
+        );
     }
 
     onCategoryItemClick (item) {
-        Alert.alert(this.props.navigation.getParam('categoryKey', 'NO-KEY'));
+        Alert.alert(item.name);
     }
 
-    _keyExtractor = (item, index) => item.key;
+    _keyExtractor = (item, index) => item.reference;
 
     _renderItem = ({item}) => (
         <TouchableOpacity onPress={() => this.onCategoryItemClick(item)} >
-            <CategoryListItem
+            <NearbyPlaceItem
                 item= {item}
-                style= {categoriesStyle.styles}
+                style= {nearbyPlaceStyle.styles}
             />
         </TouchableOpacity>
     );
@@ -59,7 +74,7 @@ class Category extends Component {
         return (
             <View style= {categoriesStyle.styles.page}>
                 <FlatList
-                    data={this.props.category}
+                    data={this.props.places}
                     keyExtractor={this._keyExtractor}
                     renderItem={this._renderItem}
                 />
@@ -70,8 +85,8 @@ class Category extends Component {
 
 function mapStateToProps(state) {
     return {
-        category: state.category
+        places: state.places
     }
 }
 
-export default connect(mapStateToProps, actions)(Category)
+export default connect(mapStateToProps, actions)(NearbyPlaces)

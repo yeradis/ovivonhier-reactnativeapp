@@ -31,9 +31,9 @@ const styles = StyleSheet.create({
     },
     container: {
         flex: 1,
-        flexDirection: 'row',
+        flexDirection: 'column',
         margin: 10,
-        alignItems: 'center'
+        alignItems: 'stretch'
     },
     title: {
         color: colors.primary,

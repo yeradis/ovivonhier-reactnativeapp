@@ -4,7 +4,7 @@ import {createStackNavigator} from 'react-navigation';
 
 import configureStore from './src/store';
 import { CategoryList } from './src/features/categories';
-import Category from './src/features/category';
+import Category from './src/features/nearby_places';
 
 const AppNavigator = createStackNavigator(
     {

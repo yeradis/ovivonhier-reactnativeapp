@@ -8,7 +8,7 @@ import {
 
 import * as categoriesStyle from "@styles/categories.style"
 import { CategoryListItem } from "./components"
-import Category from "../category"
+import Category from "../nearby_places"
 import * as actions from "../../actions"
 
 class CategoryList extends Component {

@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux';
 import categoriesReducer from './categoriesReducer';
-import categoryReducer from './categoryReducer';
+import nearbyPlacesReducer from './nearbyPlacesReducer';
 
 export default combineReducers({
     categories: categoriesReducer,
-    category: categoryReducer
+    places: nearbyPlacesReducer
 });
