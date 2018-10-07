@@ -4,6 +4,12 @@
 Just a really simple React Native app (my first one)
 for a technical test
 
+The basis:
+- Static category list (bar, restaurant, gym)
+- Call Google Places Nearby API for selected category using current user Location coordinates
+
+note: a Google Places API key is needed
+
 ```sh
 yarn install
 ```
@@ -24,7 +30,8 @@ TODO
 - [x] Redux - Load categories list
 - [x] Redux - Load selected category list category
 - [x] Add navigation
-- [ ] Make services (GetCategories, GetCategory) fetch data from some API
+- [x] Get current user location
+- [x] Fetch data from some API
 - [ ] Unit test
 - [ ] Improve folder structure
 - [ ] Follow existing convention
