@@ -37,17 +37,26 @@ const styles = StyleSheet.create({
     },
     title: {
         color: colors.primary,
-        flex: 10,
-        margin: 10,
+        flex: 1,
+        paddingTop: 10,
+        paddingBottom: 5,
+        paddingLeft: 10,
         fontSize: values.font_title_size,
         fontWeight: values.font_title_weight
     },
     info: {
         color: colors.info,
         flex: 1,
-        margin: 10,
+        paddingBottom: 10,
+        paddingLeft: 10,
         fontSize: values.font_info_size,
         fontWeight: values.font_info_weight
+    },
+    picture: {
+        flex: 1,
+        height: 200,
+        width: '100%',
+        resizeMode: 'cover',
     }
 });
 
